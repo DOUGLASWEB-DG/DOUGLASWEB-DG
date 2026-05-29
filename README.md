@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=DOUGLASWEB-DGme&style=flat-square&color=blueviolet" alt="Contador de visualizações" />
 </div>
 
-###Olá, seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Olá, seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 Meu nome é Dougla Júlios e sou desenvolvedor...
 
@@ -21,11 +21,11 @@ Meu nome é Dougla Júlios e sou desenvolvedor...
 <div align="center">
   <h3>📍 Conecte-se comigo</h3>
   
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/douglas-júlio-da-paz-gusmão-705b0429b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="douglascode2025@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
   
