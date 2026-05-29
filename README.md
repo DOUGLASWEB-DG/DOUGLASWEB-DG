@@ -4,7 +4,7 @@
 
 Olá, seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Meu nome é Dougla Júlios e sou desenvolvedor...
+Meu nome é Dougla Júlio e sou desenvolvedor...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DOUGLASWEB-DGme&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Gráfico de estatísticas" />
