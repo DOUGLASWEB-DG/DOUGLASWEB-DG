@@ -4,7 +4,7 @@
 
 Olá, seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Meu nome é Douglas Júlio e sou desenvolvedor...
+Meu nome é Douglas Júlio e sou desenvolvedor Full Stack...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DOUGLASWEB-DGme&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Gráfico de estatísticas" />
@@ -15,7 +15,7 @@ Meu nome é Douglas Júlio e sou desenvolvedor...
   <h3>🛠️ Tecnologias e Ferramentas</h3>
   
   <!-- Ícones de Linguagens (Dinâmicos) -->
-  <img src="https://skillicons.dev/icons?perline=8&icons=javascript,react,nodejs,typescript,python,html,css,git,github,mysql,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?perline=8&icons=javascript,react,nodejs,typescript,html,css,git,github,mysql,postgresql,vscode,figma,docker" />
 </div>
 
 <div align="center">
