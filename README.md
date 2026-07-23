@@ -12,14 +12,14 @@ Meu nome é Douglas Júlio e sou desenvolvedor Full Stack...
 </div>
 
 <div align="center">
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
+  <h3> Tecnologias e Ferramentas</h3>
   
   <!-- Ícones de Linguagens (Dinâmicos) -->
   <img src="https://skillicons.dev/icons?perline=8&icons=javascript,react,nodejs,typescript,html,css,git,github,mysql,postgresql,vscode,figma,docker" />
 </div>
 
 <div align="center">
-  <h3>📍 Conecte-se comigo</h3>
+  <h3> Conecte-se comigo</h3>
   
   <a href="www.linkedin.com/in/douglas-júlio-da-paz-gusmão-705b0429b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -35,7 +35,7 @@ Meu nome é Douglas Júlio e sou desenvolvedor Full Stack...
 </div>
 
 <div align="center">
-  <p>🚧 Em construção Constantemente criando algo novo... 🚧</p>
+  <p> Em construção Constantemente criando algo novo... </p>
   
   <!-- Assinatura dinâmica -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Obrigado%20pela%20visita!&fontSize=25" width="100%"/>
