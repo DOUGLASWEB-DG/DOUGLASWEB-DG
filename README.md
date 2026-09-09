@@ -7,7 +7,7 @@
 <h3 align="center">Meu nome é Douglas Júlio e sou Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  Apaixonado por tecnologia, do software ao hardware — construo desde interfaces web até projetos com microcontroladores (ESP32).
+  Apaixonado por tecnologia, do software ao hardware — construo aplicações modernas desde a interface web (Next.js/React) até o backend e projetos com microcontroladores (ESP32).
 </p>
 
 <div align="center">
@@ -18,13 +18,18 @@
 <div align="center">
   <h3> Tecnologias e Ferramentas</h3>
 
-  <!-- Desenvolvimento Web -->
-  <img src="https://skillicons.dev/icons?perline=8&i=javascript,typescript,react,nodejs,html,css,mysql,postgresql" /><br/>
+  <img src="https://skillicons.dev/icons?perline=8&i=nextjs,react,ts,js,nodejs,tailwind,postgres,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?perline=8&i=prisma,docker,html,css,git,github,vscode,figma" /><br/>
 
-  <!-- Ferramentas, Versionamento e Produtividade -->
-  <img src="https://skillicons.dev/icons?perline=8&i=git,github,vscode,figma,docker,obsidian" /><br/>
+  <img src="https://img.shields.io/badge/-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Evolution_API-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  
+  <br/><br/>
 
-  <!-- Hardware / Embarcados -->
   <img src="https://skillicons.dev/icons?perline=8&i=arduino" />
   <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/-PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
@@ -36,11 +41,15 @@
   <h3> Um pouco sobre mim</h3>
 </div>
 
--  Desenvolvimento Full Stack com **JavaScript, TypeScript, React e Node.js**
--  Bancos de dados relacionais com **MySQL** e **PostgreSQL**
--  Estudos e projetos com **ESP32** e **PlatformIO** para sistemas embarcados / IoT
--  Organização de estudos e projetos com **Obsidian**
--  Em constante aprendizado, sempre construindo algo novo
+- Desenvolvimento Full Stack moderno com **Next.js 15, React 19, TypeScript e Node.js**
+- Estilização e componentes acessíveis utilizando **Tailwind CSS e Radix UI**
+- Formulação e validação robusta de formulários com **React Hook Form e Zod**
+- Visualização de dados e dashboards com **Recharts**
+- Bancos de dados relacionais com **PostgreSQL** e **MySQL**, utilizando **Prisma ORM**
+- Integrações avançadas e automações com **Evolution API**
+- Containerização e ambientes isolados com **Docker**
+- Estudos e projetos com **ESP32** e **PlatformIO** para sistemas embarcados / IoT
+- Em constante aprendizado, sempre construindo algo novo
 
 <div align="center">
   <h3> Conecte-se comigo</h3>
