@@ -2,13 +2,49 @@
   <img src="https://komarev.com/ghpvc/?username=DOUGLASWEB-DGme&style=flat-square&color=blueviolet" alt="Contador de visualizações" />
 </div>
 
-<h1 align="center">Olá, seja bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">DREWAWEB <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h3 align="center">Meu nome é Douglas Júlio e sou Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  Apaixonado por tecnologia, do software ao hardware — construo aplicações modernas desde a interface web (Next.js/React) até o backend e projetos com microcontroladores (ESP32).
+  Interessado em tecnologia, do software ao hardware — construo desde ecossistemas web de alta performance até automações e embarcados.
 </p>
+
+---
+
+### Trajetória Profissional
+
+**1. Formação Acadêmica e Atuação em TI**
+- **Formação:** Estudante do curso de Análise e Desenvolvimento de Sistemas (ADS).
+- **Experiência Prática:** Atuação como Analista de Suporte em TI, gerenciando ativos, chamados de infraestrutura (GLPI) e rotinas operacionais técnicas.
+
+**2. Desenvolvimento Web Full Stack**
+- Foco absoluto no ecossistema moderno de JavaScript/TypeScript.
+- **Destaque em Desenvolvimento:** **`navalha.app`** (SaaS de Gestão para Barbearias).
+
+**3. Hardware e Sistemas Embarcados (IoT)**
+- Projetos e estudos práticos utilizando microcontroladores (ESP32), Arduino e o ecossistema PlatformIO.
+
+**4. Ambiente e Produtividade**
+- Utilização contínua de distribuições Linux como SO principal de desenvolvimento e Obsidian para gestão do conhecimento.
+
+---
+
+<div align="center">
+  <h3>🚀 Destaque de Projeto Main: navalha.app</h3>
+  <p>Stack de alta performance utilizada no desenvolvimento da plataforma:</p>
+
+  <img src="https://skillicons.dev/icons?perline=8&i=nextjs,react,ts,nodejs,tailwind,postgres,prisma,docker" />
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Evolution_API-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DOUGLASWEB-DGme&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Gráfico de estatísticas" />
@@ -16,19 +52,10 @@
 </div>
 
 <div align="center">
-  <h3> Tecnologias e Ferramentas</h3>
+  <h3>🛠️ Tecnologias e Ferramentas</h3>
 
   <img src="https://skillicons.dev/icons?perline=8&i=nextjs,react,ts,js,nodejs,tailwind,postgres,mysql" /><br/>
   <img src="https://skillicons.dev/icons?perline=8&i=prisma,docker,html,css,git,github,vscode,figma" /><br/>
-
-  <img src="https://img.shields.io/badge/-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Evolution_API-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  
-  <br/><br/>
 
   <img src="https://skillicons.dev/icons?perline=8&i=arduino" />
   <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
@@ -38,37 +65,10 @@
 <br/>
 
 <div align="center">
-  <h3> Um pouco sobre mim</h3>
-</div>
-
-- Desenvolvimento Full Stack moderno com **Next.js 15, React 19, TypeScript e Node.js**
-- Estilização e componentes acessíveis utilizando **Tailwind CSS e Radix UI**
-- Formulação e validação robusta de formulários com **React Hook Form e Zod**
-- Visualização de dados e dashboards com **Recharts**
-- Bancos de dados relacionais com **PostgreSQL** e **MySQL**, utilizando **Prisma ORM**
-- Integrações avançadas e automações com **Evolution API**
-- Containerização e ambientes isolados com **Docker**
-- Estudos e projetos com **ESP32** e **PlatformIO** para sistemas embarcados / IoT
-- Em constante aprendizado, sempre construindo algo novo
-
-<div align="center">
-  <h3> Conecte-se comigo</h3>
+  <h3>🤝 Conecte-se</h3>
 
   <a href="https://www.linkedin.com/in/douglas-júlio-da-paz-gusmão-705b0429b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/douglasjulio_02" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:douglascode2025@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <p> Em construção constantemente, criando algo novo... </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Obrigado%20pela%20visita!&fontSize=25" width="100%"/>
-</div>
+    <img src="
