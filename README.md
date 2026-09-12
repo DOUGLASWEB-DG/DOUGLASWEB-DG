@@ -16,14 +16,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 Formação & TI</h4>
+      <h4>Formação & TI</h4>
       <ul>
         <li>Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b></li>
         <li>Analista de Suporte em TI gerenciando ativos e chamados (GLPI)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Ambiente & Ferramentas</h4>
+      <h4>Ambiente & Ferramentas</h4>
       <ul>
         <li>
           <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" height="20" align="center" /> 
