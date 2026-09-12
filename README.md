@@ -72,12 +72,8 @@
 <div align="center">
   <h3> Estatísticas do GitHub</h3>
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DOUGLASWEB-DGme&show_icons=true&theme=radical&hide_border=true" height="165" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DOUGLASWEB-DGme&layout=compact&theme=radical&hide_border=true" height="165" alt="Linguagens mais usadas" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOUGLASWEB-DGme&theme=radical&hide_border=true" height="165" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUGLASWEB-DGme&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
