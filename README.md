@@ -72,8 +72,12 @@
 <div align="center">
   <h3> Estatísticas do GitHub</h3>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=DOUGLASWEB-DGme&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=8b5cf6&icon_color=8b5cf6" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUGLASWEB-DGme&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=8b5cf6" height="160" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DOUGLASWEB-DGme&show_icons=true&theme=radical&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DOUGLASWEB-DGme&layout=compact&theme=radical&hide_border=true" height="165" alt="Linguagens mais usadas" />
+  </a>
 </div>
 
 ---
