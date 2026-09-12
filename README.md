@@ -69,12 +69,7 @@
 
 ---
 
-<div align="center">
-  <h3> Estatísticas do GitHub</h3>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOUGLASWEB-DGme&theme=radical&hide_border=true" height="165" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUGLASWEB-DGme&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
-</div>
+V
 
 ---
 
