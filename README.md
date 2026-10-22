@@ -77,8 +77,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e **Analista de Su
 <table>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br /><sub>Arduino</sub></td>
-    <td align="center" width="90"><img src="assets/esp32.svg" width="48" height="48" alt="ESP32" /><br /><sub>ESP32</sub></td>
-    <td align="center" width="90"><img src="assets/platformio.svg" width="48" height="48" alt="PlatformIO" /><br /><sub>PlatformIO</sub></td>
+    <td align="center" width="90"><img src="esp32.svg" width="48" height="48" alt="ESP32" /><br /><sub>ESP32</sub></td>
+    <td align="center" width="90"><img src="platformio.svg" width="48" height="48" alt="PlatformIO" /><br /><sub>PlatformIO</sub></td>
   </tr>
 </table>
 
