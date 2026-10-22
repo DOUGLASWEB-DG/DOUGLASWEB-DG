@@ -2,9 +2,9 @@
 
 # Douglas Júlio
 
-### Desenvolvedor Full Stack, Infraestrutura de Redes & Entusiasta de IoT
+### Desenvolvedor Full Stack · Redes & Segurança Eletrônica · IoT
 
-Do software ao hardware: aplicações web de alta performance, redes, automações e sistemas embarcados.
+Do software ao hardware: aplicações web de alta performance, infraestrutura de redes, automações e sistemas embarcados.
 
 <a href="https://www.linkedin.com/in/douglas-j%C3%BAlio-da-paz-gusm%C3%A3o-705b0429b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,65 +19,96 @@ Do software ao hardware: aplicações web de alta performance, redes, automaçõ
 
 ## Sobre mim
 
-- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-- **Analista de Suporte em TI**, com gestão de ativos e chamados (GLPI)
-- Desenvolvo aplicações **full stack** com o ecossistema TypeScript/React
-- Atuo com **redes e segurança eletrônica**: roteamento MikroTik (RouterOS), equipamentos Intelbras e câmeras/CFTV Hikvision
-- Trabalho com **IoT e sistemas embarcados** (ESP32, Arduino)
-- Ambiente: **Linux Mint** como sistema principal e **Obsidian** para gestão de conhecimento
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e **Analista de Suporte em TI**. Gosto de resolver problemas de ponta a ponta: construo o software, configuro a rede por onde ele roda e conecto o mundo físico com dispositivos embarcados.
+
+**Ambiente de trabalho:** Linux Mint como sistema principal e Obsidian para gestão de conhecimento.
+
+---
+
+## Áreas de atuação
+
+| Área | O que eu faço |
+| :--- | :--- |
+| **Desenvolvimento Full Stack** | Aplicações web com Next.js, React, TypeScript, Node.js, PostgreSQL e Prisma |
+| **Redes & Segurança Eletrônica** | Roteamento com MikroTik (RouterOS), equipamentos Intelbras e CFTV Hikvision |
+| **IoT & Embarcados** | Prototipagem e firmware com ESP32 e Arduino, usando PlatformIO |
+| **Suporte & Infraestrutura de TI** | Gestão de ativos e atendimento de chamados com GLPI |
 
 ---
 
 ## Projeto em destaque: navalha.app
 
-**SaaS de gestão para barbearias**, focado em alta performance.
+**SaaS de gestão para barbearias**, focado em alta performance e em uma experiência de agendamento simples.
 
-<img src="https://skillicons.dev/icons?perline=8&i=nextjs,react,ts,nodejs,tailwind,postgres,prisma,docker" alt="Stack principal" />
+- Agendamento online 24h para o cliente
+- Painéis separados para cliente e barbeiro
+- Lembretes automáticos e histórico de serviços
+- Integração com WhatsApp via Evolution API
 
-<br />
+**Stack:** Next.js · React · TypeScript · Node.js · Tailwind CSS · PostgreSQL · Prisma · Docker
+**Interface e formulários:** Radix UI · React Hook Form · Zod
 
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Evolution API](https://img.shields.io/badge/Evolution_API-00E676?style=flat-square&logo=whatsapp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,tailwind,postgres,prisma,docker&perline=8" alt="Stack do navalha.app" />
 
 ---
 
 ## Tecnologias
 
-**Web & Dados**
+### Web & Dados
 
-<img src="https://skillicons.dev/icons?perline=8&i=nextjs,react,ts,js,nodejs,tailwind,postgres,mysql,prisma,docker,html,css" alt="Web e dados" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,prisma,docker&perline=12" alt="Web e dados" />
 
-**Ferramentas**
+### Ferramentas
 
-<img src="https://skillicons.dev/icons?perline=8&i=git,github,vscode,figma,linux" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&perline=12" alt="Ferramentas" />
 
-**Redes & Segurança Eletrônica**
+### Redes & Segurança Eletrônica
 
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=for-the-badge)
-![Intelbras](https://img.shields.io/badge/Intelbras-00A335?style=for-the-badge)
-![Hikvision](https://img.shields.io/badge/Hikvision-E60012?style=for-the-badge)
+<table>
+  <tr>
+    <td align="center" width="90"><img src="assets/mikrotik.svg" width="48" height="48" alt="MikroTik" /><br /><sub>MikroTik</sub></td>
+    <td align="center" width="90"><img src="assets/intelbras.svg" width="48" height="48" alt="Intelbras" /><br /><sub>Intelbras</sub></td>
+    <td align="center" width="90"><img src="assets/hikvision.svg" width="48" height="48" alt="Hikvision" /><br /><sub>Hikvision</sub></td>
+  </tr>
+</table>
 
-**IoT & Embarcados**
+### IoT & Embarcados
 
-<img src="https://skillicons.dev/icons?perline=8&i=arduino" alt="Arduino" />
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br /><sub>Arduino</sub></td>
+    <td align="center" width="90"><img src="assets/esp32.svg" width="48" height="48" alt="ESP32" /><br /><sub>ESP32</sub></td>
+    <td align="center" width="90"><img src="assets/platformio.svg" width="48" height="48" alt="PlatformIO" /><br /><sub>PlatformIO</sub></td>
+  </tr>
+</table>
 
 ---
+
+<!--
+ESTATÍSTICAS DO GITHUB (opcional)
+Para ativar: troque SEU_USUARIO pelo seu usuário real do GitHub
+(o que aparece em github.com/SEU_USUARIO) e apague a primeira e a
+última linha deste bloco (as que abrem e fecham o comentário).
 
 ## Estatísticas no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DOUGLASWEB-DGme&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUGLASWEB-DGme&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6" alt="Linguagens mais usadas" />
 </div>
 
 ---
+-->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DOUGLASWEB-DGme&style=flat-square&color=8b5cf6&label=visualizações" alt="Contador de visualizações" />
+
+## Vamos conversar
+
+<a href="https://www.linkedin.com/in/douglas-j%C3%BAlio-da-paz-gusm%C3%A3o-705b0429b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/douglasjulio_02" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
 </div>
