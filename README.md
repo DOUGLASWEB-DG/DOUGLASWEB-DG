@@ -66,9 +66,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e **Analista de Su
 
 <table>
   <tr>
-    <td align="center" width="90"><img src="assets/mikrotik.svg" width="48" height="48" alt="MikroTik" /><br /><sub>MikroTik</sub></td>
-    <td align="center" width="90"><img src="assets/intelbras.svg" width="48" height="48" alt="Intelbras" /><br /><sub>Intelbras</sub></td>
-    <td align="center" width="90"><img src="assets/hikvision.svg" width="48" height="48" alt="Hikvision" /><br /><sub>Hikvision</sub></td>
+    <td align="center" width="90"><img src="mikrotik.svg" width="48" height="48" alt="MikroTik" /><br /><sub>MikroTik</sub></td>
+    <td align="center" width="90"><img src="intelbras.svg" width="48" height="48" alt="Intelbras" /><br /><sub>Intelbras</sub></td>
+    <td align="center" width="90"><img src="hikvision.svg" width="48" height="48" alt="Hikvision" /><br /><sub>Hikvision</sub></td>
   </tr>
 </table>
 
